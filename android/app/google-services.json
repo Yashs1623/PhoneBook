@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "527800678452",
+    "project_id": "fir-flutterlogin-a039e",
+    "storage_bucket": "fir-flutterlogin-a039e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527800678452:android:89ae48d2cc7ca98d083261",
+        "android_client_info": {
+          "package_name": "com.techycrafts.flutterfirebaselogin.phonebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527800678452-d9lcmnacc44a2hcbjlb2fpj955qc70g1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxrHC-jnqjIEkJFURHZSZiSfmEtsdmfq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527800678452-d9lcmnacc44a2hcbjlb2fpj955qc70g1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
